@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<!--Title of the webpage-->
+
+  <head>
+      <title>
+        AttainU- College Alternative
+      </title>
+  </head>
+
+<!--Body of the webpage-->
+      <body>
+         <img src= "data:image/png;base64,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" alt= "AttainU Logo">
+        
+         <p>
+   <h2> <strong>AttainU is a college alternative for all to learn Software Development.It is based on an Income Share Agreement</strong> </h2>
+  </p>
+
+  <p>AttainU is a scalable college alternative, focusing on high-quality, industry-aligned learning outcomes, targeted towards highly motivated individuals looking to get into high growth careers </p>
+  <!--Course inclusions-->
+
+  <p>
+    The course includes- 
+    <ul>
+      <li>Front End Development-
+        <ol>HTML and CSS</ol> 
+        <ol>JavaScript</ol> 
+        <ol>React and Redux</ol> </li>
+      
+            </br>
+      
+      <li>Back End Web Development- 
+        <ol>Node</ol>
+        <ol>Express</ol>
+        <ol>DevOps</ol>
+        <ol>Database</ol>
+        </li>
+            
+            </br>
+
+      </li>
+      <li>Core Computer Science</li>
+      <ol>Python</ol>
+      <ol>Data Structures</ol>
+      <ol>Algorithm</ol>
+      </ul>
+           
+          <br>
+      </ul>
+  </p>
+</body>
+</html>
